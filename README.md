@@ -7,4 +7,4 @@ This directiry contains .stl data of light shielding plates for darkfield illumi
 There are different plate diameter files from 12mm to 19mm. The diameter of the plate is reflected into respective file names.
 Please print the files using with a 3D printer loaded black ABS filament.
 Optimum diameter depends on the objective and the condenser, and it can be selected comparing with the effects testing differnet diameter plates.
-These plates can be used to insert in the backside of condenser. Abbe 1.3 or Achromat 1.25 types are preferred.
+These plates are used inserting in the backside of condenser. Abbe 1.3 or Achromat 1.25 types are preferred.
